@@ -1,2 +1,3 @@
 Criação do HTML e CSS
 JS
+Adicionar validação do usuário
